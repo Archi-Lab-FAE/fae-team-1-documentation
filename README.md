@@ -6,7 +6,7 @@ In this repository all decisions concerning only team 1 should be documented.
 To create a new entry first create a markdown file according to the following template.
 
 ```
-Filename: DD-MM-YYYY-TITLE.md
+Filename: YYYY-MM-DD-TITLE.md
 Example: 12-09-2019-Example.md
 ```
 
