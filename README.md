@@ -1,29 +1,27 @@
 # fae-team-1-documentation
 
-In diesem Repository sollen alle Entscheidungen die nur Team 1 betreffen festgehalten werden.
+In this repository all decisions concerning only team 1 should be documented.
 
+## Usage
+To create a new entry first create a markdown file according to the following template.
 
-## Benutzung
-Um einen neuen Eintrag zu erstellen legt zu aller erst eine Markdown-Datei nach dem folgendnen Template an.
+```
+Filename: DD-MM-YYYY-TITLE.md
+Example: 12-09-2019-Example.md
+```
 
-Dateiname: DD-MM-YYYY-TITEL.md
-Beispiel: 12-09-2019-Beispiel.md
+Attention: Each title must be unique, so the file is always found.
 
-Achtung: jeder Titel muss einzigartig sein, sodass die Datei immer gefunden wird. 
+After you have created the file, the server needs some metadata to properly assign the entry. The metadata must be at the top of the file.
 
-Nachdem ihr die Datei angelegt habt, braucht der Server noch ein paar Metadaten um den Eintrag richtig zuzuordnen. 
-Die Metadaten müssen an oberester Stelle innerhalb der Datei stehen.
-
-### Metadaten
+### Metadata
 ```
 ---
 layout: post
-title: Der Titel //Dieser muss nicht der gleiche wie der Dateiname sein!
-author: Der jeweilige Name des Autors //optional
-categories: team1 //Die Teamspezifische Kategorie
+title: The title // This does not have to be the same as the file name!
+author: The name of the author // optional
+categories: team1 // The Team Specific Category
 ---
 ```
 
-
-Folgend auf diese Metadaten kommt nun der eigentliche Inhalt.
-Sobald ihr einen Eintrag committed und pushed, wird der Server aktualisiert und stellt den neuen Eintrag bereit.
+Following the metadata comes the actual content. Once you commit and push an entry, the server is refreshed and provides the new entry.
