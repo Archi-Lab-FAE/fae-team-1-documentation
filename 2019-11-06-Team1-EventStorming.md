@@ -8,7 +8,6 @@ categories: team1
 
 ## Events
 
-
 |Nummer| Event                                                                                                    |
 |------| ---------------------------------------------------------------------------------------------------------|  
 |     1| Die Gesellschaft hatte ausreichend finanzielle Mittel, um für Inklusion zu investieren                   |
@@ -36,7 +35,6 @@ categories: team1
 
 ## Fragen
 
-
 |Nummer| Frage                                                                                                | Event  |
 |------|------------------------------------------------------------------------------------------------------|--------|
 |     1| Ab wann hat man einen fairen Zugang?                                                                 |      2 |
@@ -60,7 +58,6 @@ categories: team1
 
 ## Personen
 
-
 |Nummer| Name                        | Events            |
 |------|-----------------------------|-------------------|
 |    1 | Gesellschaft                |                  1|
@@ -81,7 +78,6 @@ categories: team1
 
 
 ## Soziale Aspekte
-
 
 |Nummer| Aspekt                                                                                            | Event|
 |------|---------------------------------------------------------------------------------------------------|------|
@@ -107,7 +103,6 @@ categories: team1
 
 
 ## Features
-
 
 |Nummer| Feature                                                   | Event|
 |------|-----------------------------------------------------------|------|
