@@ -8,6 +8,7 @@ categories: team1
 
 ## Events
 
+
 |Nummer| Event                                                                                                    |
 |------| ---------------------------------------------------------------------------------------------------------|  
 |     1| Die Gesellschaft hatte ausreichend finanzielle Mittel, um für Inklusion zu investieren                   |
@@ -34,6 +35,8 @@ categories: team1
 
 
 ## Fragen
+
+
 |Nummer| Frage                                                                                                | Event  |
 |------|------------------------------------------------------------------------------------------------------|--------|
 |     1| Ab wann hat man einen fairen Zugang?                                                                 |      2 |
@@ -56,6 +59,8 @@ categories: team1
 
 
 ## Personen
+
+
 |Nummer| Name                        | Events            |
 |------|-----------------------------|-------------------|
 |    1 | Gesellschaft                |                  1|
@@ -74,15 +79,10 @@ categories: team1
 
 
 
-## Features
-|Nummer| Feature                                                   | Event|
-|------|-----------------------------------------------------------|------|
-|     1| App Entwicklung für Sohle -> Kommunikation mit Angehörigen|     6|  
-|     2| Berechtigung auch übertragbar, wenn Maria ins KH kommt?   |    17|
-
-
 
 ## Soziale Aspekte
+
+
 |Nummer| Aspekt                                                                                            | Event|
 |------|---------------------------------------------------------------------------------------------------|------|
 |     1| Finanzierung?                                                                                     |     1|
@@ -103,3 +103,15 @@ categories: team1
 |    16| Verletzung von Marias Freiheits- und Persönlichkeitsrechten                                       |    17|
 |    17| Machtungleichheit: Machtausübung von Leitung, Personal etc.                                       |    17|
 |    18| Gewissheit für Angehörige, dass es Maria gut geht (keine Sorge)                                   |    19|
+
+
+
+## Features
+
+
+|Nummer| Feature                                                   | Event|
+|------|-----------------------------------------------------------|------|
+|     1| App Entwicklung für Sohle -> Kommunikation mit Angehörigen|     6|  
+|     2| Berechtigung auch übertragbar, wenn Maria ins KH kommt?   |    17|
+
+
