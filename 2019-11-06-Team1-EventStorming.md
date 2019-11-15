@@ -5,6 +5,8 @@ author: Team 1
 categories: team1 
 ---
 
+#### Anmerkung SB 15.11. (bitte nach Bearbeitung löschen)
+Was Sie hier dokumentiert haben, gehört ins Wiki. Das ist keine lokale Entscheidung. 
 
 ## Events
 

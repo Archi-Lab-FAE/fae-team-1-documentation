@@ -1,3 +1,14 @@
+#### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
+* Bitte editieren Sie dieses README, z.B. indem Sie das Wiki verlinken. Der Text unten ist nur Default. 
+* In welcher Weise tracken Sie Ihre aufgewendete Zeit? Das sollte eine lokale Team Decision sein. 
+* Domain Vision Statement: 
+    * wie heißt Ihre Domäne?
+    * Wenn Sie Begriffe dort verwenden, bitte verlinken Sie immer auf das Glossar. 
+* Dokumentation Events / Domain Model:
+    * Die Entities des Domain Models sind aus meiner Sicht sehr technisch. Es sollten die Entitäten aus dem Glossar dort auftauchen. 
+    * wie mappen die Events auf die Entitäten Ihres Datenmodells?
+
+
 # fae-team-1-documentation
 
 In this repository all decisions concerning only team 1 should be documented.
