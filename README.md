@@ -1,5 +1,4 @@
 #### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
-* In welcher Weise tracken Sie Ihre aufgewendete Zeit? Das sollte eine lokale Team Decision sein. 
 * Domain Vision Statement: 
     * Wenn Sie Begriffe dort verwenden, bitte verlinken Sie immer auf das Glossar. 
 * Dokumentation Events / Domain Model:
