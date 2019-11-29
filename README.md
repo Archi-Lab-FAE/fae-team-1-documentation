@@ -4,6 +4,11 @@
 * Dokumentation Events / Domain Model:
     * wie mappen die Events auf die Entitäten Ihres Datenmodells?
 
+#### Anmerkungen SB 29.11. (bitte nach Bearbeitung löschen)
+* bitte lösen Sie obige Anmerkungen auf, und wenn geschehen, löschen Sie den Kommentar
+* Das README sollte die "Eintrittskarte" in das Repo bieten. Hierhin gehört:
+   * das Domain Vision Statement - in einer Form, dass ein **Außenstehender** versteht, worum es geht.
+   * Hinweise auf Weiterlesen (Wiki)
 
 # Wiki
 
