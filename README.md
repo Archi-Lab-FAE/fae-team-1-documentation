@@ -1,8 +1,8 @@
 #### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
 * Domain Vision Statement: 
     * Wenn Sie Begriffe dort verwenden, bitte verlinken Sie immer auf das Glossar. 
-* Dokumentation Events / Domain Model:
-    * wie mappen die Events auf die Entitäten Ihres Datenmodells?
+* ~~Dokumentation Events / Domain Model:~~
+    * ~~wie mappen die Events auf die Entitäten Ihres Datenmodells?~~
 
 #### Anmerkungen SB 29.11. (bitte nach Bearbeitung löschen)
 * bitte lösen Sie obige Anmerkungen auf, und wenn geschehen, löschen Sie den Kommentar
