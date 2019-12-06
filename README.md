@@ -2,6 +2,7 @@ Die Domäne Registrierung befasst sich mit der Aufnahme und Verwaltung von Daten
 Die Erfassten Daten werden für weitere Dienste zur Verfügung gestellt.
 Die Domäne befasst sich mit der initialen Aufnahme von demenziell erkrankten Personen ins System sowie mit der Wartung der persoenenbezogenen Daten. Neben der erkrankten Person werden noch Kontaktpersoenen hinzugefügt, die im Notfall benachrichtigt werden.
 Sowohl für Erkrankte, als auch für Kontktpersonen wird der Zustand der Zustimming zum Prozess verwaltet. Bei der erkrankten Person in Form von Zustimmung zur Überwachung, bei den Kontaktperson sowohl die allgemeine Zustimmung kontaktiert zu werden, als auch Zeiten, in denen eine Kontaktperson nicht erreichbar ist.
+Zentrale Interaktionspunkte für die Domäne sind das Eintragen neuer erkrankter Persoenen sowie Änderungen bei der Zustimmung oder zu kontaktierenden Personen, sowie Änderungen in der Verfügbarkeit der Kontakt Personen.  
 
 #### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
 * Domain Vision Statement: 
