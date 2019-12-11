@@ -1,21 +1,11 @@
-Die Domäne Registrierung befasst sich mit der Aufnahme und Verwaltung von Daten zu demenziell Erkrankten und den dazugehörigen Kontaktpersonen.
-Die Erfassten Daten werden für weitere Dienste zur Verfügung gestellt.
-Die Domäne befasst sich mit der initialen Aufnahme von demenziell erkrankten Personen ins System sowie mit der Wartung der persoenenbezogenen Daten. Neben der erkrankten Person werden noch Kontaktpersoenen hinzugefügt, die im Notfall benachrichtigt werden.
-Sowohl für Erkrankte, als auch für Kontktpersonen wird der Zustand der Zustimming zum Prozess verwaltet. Bei der erkrankten Person in Form von Zustimmung zur Überwachung, bei den Kontaktperson sowohl die allgemeine Zustimmung kontaktiert zu werden, als auch Zeiten, in denen eine Kontaktperson nicht erreichbar ist.
-Zentrale Interaktionspunkte für die Domäne sind das Eintragen neuer erkrankter Persoenen sowie Änderungen bei der Zustimmung oder zu kontaktierenden Personen, sowie Änderungen in der Verfügbarkeit der Kontakt Personen.  
+#Domain Vision Statement - Registrierung
 
-#### Anmerkungen SB 15.11. (bitte nach Bearbeitung löschen)
-* Domain Vision Statement: 
-    * Wenn Sie Begriffe dort verwenden, bitte verlinken Sie immer auf das Glossar. 
-* ~~Dokumentation Events / Domain Model:~~
-    * ~~wie mappen die Events auf die Entitäten Ihres Datenmodells?~~
+Die Domäne Registrierung befasst sich mit der Aufnahme und Verwaltung von Daten zu [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) und den dazugehörigen [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html).
+Die erfassten Daten werden für weitere Dienste zur Verfügung gestellt.
+Die Domäne befasst sich mit der initialen Aufnahme von [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) ins System sowie mit der Wartung der persoenenbezogenen Daten. Neben der [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) werden noch [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) hinzugefügt, die im Notfall benachrichtigt werden.
+Sowohl für [demenziell Erkrankte](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html), als auch für [Kontktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) wird der Zustand der Zustimming zum Prozess verwaltet. Bei der [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) in Form von Zustimmung zur Überwachung, bei den [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) sowohl die allgemeine Zustimmung kontaktiert zu werden, als auch Zeiten, in denen eine [Kontaktperson](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html) nicht erreichbar ist.
+Zentrale Interaktionspunkte für die Domäne sind das Eintragen neuer [demenziell Erkranker](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) sowie Änderungen bei der Zustimmung oder der [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html), sowie Änderungen in der Verfügbarkeit der [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html).  
 
-#### Anmerkungen SB 29.11. (bitte nach Bearbeitung löschen)
-* bitte lösen Sie obige Anmerkungen auf, und wenn geschehen, löschen Sie den Kommentar
-* Das README sollte die "Eintrittskarte" in das Repo bieten. Hierhin gehört:
-   * das Domain Vision Statement - in einer Form, dass ein **Außenstehender** versteht, worum es geht.
-   * Hinweise auf Weiterlesen (Wiki)
 
 # Wiki
-
 [Hier geht es zur Wiki](https://github.com/Archi-Lab-FAE/fae-team-1-documentation/wiki)
