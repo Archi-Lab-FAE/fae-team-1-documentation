@@ -1,4 +1,4 @@
-#Domain Vision Statement - Registrierung
+# Domain Vision Statement - Registrierung
 
 Die Domäne Registrierung befasst sich mit der Aufnahme und Verwaltung von Daten zu [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) und den dazugehörigen [Kontaktpersonen](https://fae.archi-lab.io/glossary/2019/11/06/Glossary-Kontaktperson.html).
 Die erfassten Daten werden für weitere Dienste zur Verfügung gestellt.
