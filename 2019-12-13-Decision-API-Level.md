@@ -7,5 +7,5 @@ categories: team1
 
 #### API-Level
 
-Da die Komplexität des Systems zu gering ist und keine Zustandsübergänge vorhanden sind, 
+Da des Systems eine geringe Komplexität aufweist und keine Zustandsübergänge vorhanden sind, 
 auf die gewartet werden muss, wird API-Level-2 verwendet. 
